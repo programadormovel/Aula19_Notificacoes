@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula19_Notificacoes</string>
+    <string name="channel_name">Canal Teste</string>
+    <string name="channel_description">Canal de Teste de Notificações</string>
+</resources>
